@@ -1,0 +1,9 @@
+{
+    "name": "DiscountAlert",
+    "version_number": "2.3.0",
+    "website_url": "",
+    "description": "Alerts you which items have a discount when the round begins. Client-side! Customizable!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
