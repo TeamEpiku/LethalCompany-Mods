@@ -1,3 +1,29 @@
+### [0.6.0]
+
+Features:
+- Scroll Wheel rebinding support.
+- Mouse button glyphs.
+
+### [0.5.6]
+
+Allow LcInputAction's to have NonPublic InputActions.
+
+### [0.5.5]
+
+Fixes unbinding vanilla keys to no longer cause the UI to be permanently broken.
+
+### [0.5.4]
+
+Hotfix for rebind ui breaking due to another oversight on my part.
+
+### [0.5.3]
+
+Fix issue with the runtime api causing errors when not defining a gamepad path.
+
+### [0.5.2]
+
+Fix vanilla key rebinding being broken when re-opening the rebind UI.
+
 ### [0.5.1]
 
 Hotfix for broken installs with mod managers, sorry that was my bad.

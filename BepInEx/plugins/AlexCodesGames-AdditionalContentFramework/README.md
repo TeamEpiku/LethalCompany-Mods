@@ -1,5 +1,5 @@
 
-# Additional Content Framework v1.0.2
+# Additional Content Framework v1.0.3
 ## About
 This mod acts as a module loader for other mods, allowing you to easily add your own custom items to Lethal Company!
 
@@ -31,6 +31,8 @@ To add new suits to your game simply:
 If you are interested in the raw source, you can find the project file in this [GitHub Repo](https://github.com/AlexCodesGames/LC-Additional-Content-Framework/). Feel free to use it in any way you wish!
 
 ## Changelog
+	- v1.0.3
+		- Modified the json parser to be more error-out per def, not per file (meaning if 1 def is bad the others will still load)
 	- v1.0.2
 		- Minor bugfix
 	- v1.0.1
