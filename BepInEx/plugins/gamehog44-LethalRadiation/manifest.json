@@ -1,0 +1,10 @@
+{
+    "name": "LethalRadiation",
+	"author": "Gamehog44",
+    "version_number": "1.2.1",
+    "website_url": "https://github.com/gamehog44/LethalRadiation",
+    "description": "Adds repercussions for removing the apparatus. Including: damage every hour, and screen blur",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
