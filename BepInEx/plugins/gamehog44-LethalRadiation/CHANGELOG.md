@@ -1,3 +1,6 @@
+## v1.2.2 Apparatus Value Override Config
+- Added a config value that disables the overriding of the apparatus' value.
+
 ## v1.2.1 Major Bug Fixes
 - Corrected an issue which caused no radiation effects to happen after pulling the apparatus.
 - Corrected a dsync issue which caused players who die before the apparatus is pull to continue to get radiation effects.

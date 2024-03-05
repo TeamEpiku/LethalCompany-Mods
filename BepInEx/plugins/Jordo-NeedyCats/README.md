@@ -1,4 +1,4 @@
-# Needy Cats v1.1.1
+# Needy Cats v1.2.0
 ### <i>You like cats? The company likes cats too! Find them roaming the various abandoned facilities and bring them home*!</i>
 ##
 ###
@@ -11,7 +11,6 @@ The host can modify the spawn rate of cats (default to 20) and [modify the pool 
 <sub>*The company pledges not to harm the cats.</sub>
 
 ## Known issues
-- Picking up and dropping a cat during the takeoff or landing phase may leave them stuck in place and possibly lost forever.
 - Some screen effects make the cats see through.
 
 ## Credits
@@ -20,5 +19,7 @@ The host can modify the spawn rate of cats (default to 20) and [modify the pool 
 - The Society for helping me test this mod.
 
 - [Cat model, textures and animations by RedDeer3D on the asset store.](https://assetstore.unity.com/packages/3d/characters/animals/mammals/cat-simple-82328)
+
+- [Canned cat food model and textures by The Vaudeville Horror Show on Sketchfab.](https://sketchfab.com/3d-models/capurrrcino-878dc8b604264346afd49b976365444c)
 
 - [Developed by Jordo](https://twitter.com/JordoVR)

@@ -1,3 +1,15 @@
+## v1.2.0
+- Added cat food! It can be purchased for 5 credits at the terminal and, if open and on the ground, will feed any number of cats within a few meters for 12 hours! It has two possible effects, selectable in the mod's config:
+	- Delay the cats meows by a *substantial amount*, default, recommended for multiplayer as you'll still need someone to pet them regularly
+	- Silence the cats meows for the entire 12 hours duration, recommended for solo play
+- Added a chance for the cats to flee if being attacked by dogs, the percentage of chance is by default 10% every 2.5 seconds, you can configure the chance percentage in the mod's config.
+- Slightly buffed the decorations meow timer bonus
+- Cats no longer flee from boomboxes or the dropship
+- Cats will now meow faster if they were just fleeing
+- Fixed a bug where cats wouldn't refresh the AI nodes on level load (caused issues with the fleeing behaviour)
+- Fixed cats not appearing on LLL custom moons
+- Fixed cats SFX not having correct audio mixer
+
 ## v1.1.1
 - Fixed incomplete & confusing description of the names config option
 
@@ -12,7 +24,7 @@
 	- In the ship *next to an employee*
 	- If certain decorations are present on the ship
 - Cats will now be much more quiet in walkie-talkies
-- Cats will now meow slightly more quietly (for the dogs) if they are in the ship
+- Cats will now meow slightly more quietly (according to the dogs) if they are in the ship
 - Fixed a bug where cats would not sit in the ship for some players
 - Fixed a bug where cats would not appear on custom moons created using LethalExpansion (thanks broiiler for reporting the issue)
 <details><summary>Spoilers changelog:</summary>

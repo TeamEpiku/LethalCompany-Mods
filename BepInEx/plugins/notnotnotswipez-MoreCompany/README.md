@@ -41,6 +41,14 @@ This mod is not affiliated with BiggerLobby/LethalPlayers nor does it use any co
 ```
 
 # Changelog
+## 1.8.1
+- Readded optimization which was accidentally removed.
+
+## 1.8.0
+- Fixed LAN support.
+- Loading screen icon now shows the MoreCompany logo.
+- Improved compatibility between other mods.
+
 ## 1.7.6
 - Revert audio related changes. Will revisit at a later date.
 
